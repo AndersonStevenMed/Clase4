@@ -263,7 +263,7 @@ class Ventana1 (QMainWindow):
                 self.numero1.setText("")
                 self.numero2.setText("")
                 self.numero3.setText("")
-
+                # Escribimos comentario
             except ValueError:
 
                 # Escribimos el texto explicativo
